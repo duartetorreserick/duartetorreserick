@@ -1,7 +1,6 @@
 <div style="display: flex; align-items: center;">
   <div align="center" style="font-family: 'Times New Roman', sans-serif;">
     <h1>WELCOME TO MY GITHUB PROFILE!!</h1>
-    I am a highly skilled bioinformatician. I possess  a strong background  in computational biology and data analysis, a deep understanding of genomics, and a proficiency in handling NGS datasets.
   </div>
 
 
